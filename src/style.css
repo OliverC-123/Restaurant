@@ -1,0 +1,15 @@
+.top_logo {
+    background-color: brown;
+    max-height: 16px;
+}
+
+.top_img {
+    background-color: burlywood;
+    min-height: 175px;
+    text-align: center;
+}
+
+.below_logo {
+    background-color: brown;
+    max-height: 8px;
+}
